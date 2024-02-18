@@ -12,10 +12,10 @@ header div:first-child p {
   letter-spacing: 2.6px;
   text-align: right;
   position: absolute;
-  right: 9%;
+  right: 8%;
 }
 header div:first-child p b {
-  font-size: 5.5rem;
+  font-size: 5.1rem;
   font-weight: 300;
   letter-spacing: 10px;
   margin: 0 -10px 20px 0;
@@ -166,7 +166,7 @@ footer:after {
   text-indent: -9999%;
 }
 .news {
-  margin-top: -1420px;
+  margin-top: -1400px;
   position: absolute;
   display: inline-block;
   left: 8.33%;
