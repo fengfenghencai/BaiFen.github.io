@@ -166,7 +166,7 @@ footer:after {
   text-indent: -9999%;
 }
 .news {
-  margin-top: -1400px;
+  margin-top: -1380px;
   position: absolute;
   display: inline-block;
   left: 8.33%;
@@ -341,7 +341,7 @@ footer:after {
 }
 .goods ul li div,
 .movie ul li div {
-  background: linear-gradient(0deg, rgba(14, 14, 37, 0.7), rgba(145, 189, 251, 0.455) 50%, rgba(138, 58, 19, 0));
+  background: linear-gradient(0deg, rgba(14, 14, 37, 0.7), rgba(21, 29, 40, 0.455) 50%, rgba(138, 58, 19, 0));
   line-height: 1.6;
   width: 100%;
   padding: 20px;
@@ -352,7 +352,8 @@ footer:after {
 }
 .goods ul li div h3,
 .movie ul li div h3 {
-  font-size: 4.8rem;
+  letter-spacing: 0px;
+  font-size: 2.33rem;
   margin-bottom: 10px;
 }
 .goods ul li div h3 b,
@@ -371,7 +372,7 @@ footer:after {
   margin-left: 0;
 }
 .goods ul li {
-  border: none;
+  /* border: none; */
   width: 33.33%;
   float: left;
 }
