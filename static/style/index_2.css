@@ -130,3 +130,20 @@
     bottom: -14px;
     left: 2px;
 }
+
+.words {
+    position: absolute;
+    left: 10%;
+    margin: 4px 4px 4px 4px;
+    top: 30%;
+    width: 500px;
+}
+
+.service .words b {
+    color: #0E0E25;
+    font-size: 1.8rem; /* 设置字体大小 */
+    line-height: 1.5; /* 设置行间距 */
+    max-width: 100%; /* 设置最大宽度为图片宽度 */
+    word-wrap: break-word; /* 换行处理 */
+}
+
